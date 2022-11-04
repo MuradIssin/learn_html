@@ -143,3 +143,19 @@ a:visited {
     /* text-align: center; */
 
 }
+
+.contact h2 {
+    text-align: center;
+}
+
+.contact-group label {
+    display: block;
+    font-style: 14px;
+    color: #86898f;
+}
+
+.contact-group input, .contact-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+}
